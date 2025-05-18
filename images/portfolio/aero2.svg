@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2500.3 3099.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1206.54" y1="2272.29" x2="1353.59" y2="2017.59" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#557cff"/>
+      <stop offset=".08" stop-color="#4471e2"/>
+      <stop offset=".2" stop-color="#2f64c0"/>
+      <stop offset=".32" stop-color="#1e59a3"/>
+      <stop offset=".45" stop-color="#11518d"/>
+      <stop offset=".6" stop-color="#084b7e"/>
+      <stop offset=".77" stop-color="#024874"/>
+      <stop offset="1" stop-color="#014772"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <polygon id="SVGID-2" data-name="SVGID" class="cls-4" points="1118.58 2221.5 1380.85 2221.5 1244.85 1954.81 1118.58 2221.5"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="1159.19" y1="2244.95" x2="1340.24" y2="1931.36" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="1125.21" y1="2261.74" x2="1548.48" y2="1528.62" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="1045.02" y1="2299.04" x2="1720.92" y2="1128.35" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-5" y="0" width="2500.3" height="3099.28"/>
+      <g>
+        <g>
+          <polygon id="SVGID" class="cls-4" points="1118.58 2221.5 1380.85 2221.5 1244.85 1954.81 1118.58 2221.5"/>
+          <g class="cls-6">
+            <rect class="cls-3" x="1118.58" y="1954.81" width="262.27" height="266.69"/>
+          </g>
+        </g>
+        <path class="cls-2" d="M1624.73,2116.89l-116.1,58.69-29.34-58.14c-79.34-157.4-158.85-314.63-238.37-472.03-73.54,156.14-146.72,312.27-220.07,468.59l-27.53,58.87-117.73-55.25,27.53-58.87c92.19-196.53,184.39-393.05,276.77-589.4l56.69-120.82,60.14,119c99.62,197.07,199.24,394.14,298.68,591.21l29.34,58.14Z"/>
+        <path class="cls-1" d="M1881.21,2054.04l-116.11,58.5-29.34-57.97c-168.27-333.1-336.54-665.83-504.81-998.93l-494.12,1052.73-117.73-55.25,548.1-1167.75c.91-1.99,1.81-3.98,2.72-5.98l117.01-1.63c188.19,372.76,376.57,745.35,564.94,1118.12l29.34,58.14Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
